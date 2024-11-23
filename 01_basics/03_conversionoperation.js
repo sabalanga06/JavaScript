@@ -93,3 +93,10 @@ let userOne = {
 
 
 
+// Array advance methods
+//1. spread operator
+//2. splice method
+//3. flat maethod 
+//4. From method.which convert any value into array
+//5. Array.Of method method  == return a new array froma set of elements(variables, araray any type of elements) 
+
