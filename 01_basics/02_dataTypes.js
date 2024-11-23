@@ -17,3 +17,6 @@ let state;
 //object 
 //typeof => to find which type of value is it like string , number or other 
 console.log(typeof null) //o/p is OBJECT ...null is type of object 
+
+
+
