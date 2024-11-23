@@ -1,2 +1,3 @@
-# JavaScript
-A code repo for JS seriesStarting again from JS 
+# JavaScript 
+A code repo for JS series
+Starting again with JS 
