@@ -71,7 +71,8 @@ console.log(id === anotherId);
 // Array, Objects, Functions
 
 //+++++++++++++++++++++++++++++Stack and heap+++++++++++++++++++++++
-// Stack (Primitive)  -> call by value --- means copy created does not effect to original value , Heap (Non-Primitive)-> call by references ----- means direct references given of actual value and changes effect to original value  
+// Stack (Primitive)  -> call by value Deep Copy  --- means copy created does not effect to original value , 
+//Heap (Non-Primitive)-> call by references Shallow copy----- means direct references given of actual value and changes effect to original value  
 //call by value 
 let myYoutubename = "hiteshchoudharydotcom"
 let anothername = myYoutubename
